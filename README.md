@@ -1,7 +1,6 @@
 # praktikum6
 ## Souce code
 ```python
-# mdinalayubi
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
@@ -44,7 +43,6 @@ print("   Hasil : lambda s: "".join(set(s)))")
 ## Praktikum
 ## Source Code
 ```python
-Mdinalayubi
 data = {}
 
 def tambah():
